@@ -1,3 +1,2 @@
 
-
-Some initial changes
+Altered changes
